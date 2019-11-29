@@ -1,6 +1,5 @@
 # rocket-search
 
-https://github.com/Rocket-Search-Software/rocket-search/blob/master/rocket-search.tar.gz
 
 in-memory file index search engine
 
